@@ -1,0 +1,29 @@
+.profile-img{
+    width: 150px;
+    height: 150px;
+    clip-path:circle(40%);
+
+    display: block;
+    margin-left:auto;
+}
+
+.card{
+    background-color: beige;
+    height:450px;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    margin:10px;
+
+
+}
+
+.banner-image{
+    background-image:url(images/background.jpg);
+    height: 200px;
+    width:100%;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size: cover;
+
+
+}
